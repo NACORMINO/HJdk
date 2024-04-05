@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Forbidden function 1",
+		"gold": 999999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+        },
+        {
+		"name": "Forbidden function 2",
+		"gold": 999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["New [Military] units start with [9999] Experience [in this city]"]
+	}
+]
+
